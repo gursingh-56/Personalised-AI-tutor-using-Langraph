@@ -1,0 +1,14 @@
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.env
+
+
+.__pycache__/
+.chats/
+.profiles/
+__pycache__
